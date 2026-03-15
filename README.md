@@ -16,7 +16,7 @@
 
 ### 🌍 Connect with me
 <p align="left">
-  <a href="https://linkedin.com/in/bhavyadhiman3024" target="_blank"><img src="https://img.shields.io/badge/-Bhavya%20Dhiman-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/bhavya-dhiman-601026b2/" target="_blank"><img src="https://img.shields.io/badge/-Bhavya%20Dhiman-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:bhavyadhiman7@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://bhavya-dhiman.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white"/></a>
 </p>
