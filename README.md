@@ -107,20 +107,20 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhavya3024&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Bhavya's GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavya3024&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=bhavya3024&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Bhavya's GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bhavya3024&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhavya3024&theme=radical&hide_border=true" alt="Streak Stats" width="98%" />
+  <img src="https://streak-stats.demolab.com?user=bhavya3024&theme=radical&hide_border=true" alt="Streak Stats" width="98%" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📌 Profile Overview & Commit Insights
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bhavya3024&theme=radical&margin-w=15&margin-h=15&no-frame=true" alt="Bhavya's Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhavya3024&theme=radical" alt="Profile Details" width="98%" />
 </p>
 
 ---
